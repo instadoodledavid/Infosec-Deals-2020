@@ -15,7 +15,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Pragprog.com | Coupon `turkeysale2020` to save 40% | 11/23 | [link](http://media.pragprog.com/newsletters/2020-11-20.html) |
 | Apress.com | $6.99 ebooks w/ code `CYBER20AP` | 11/25 | [link](https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek18) |
 | HPB.com | 20% off w/ code `FRIDAY20` | 11/25 | [link](https://b.halfpricebooks.com/coupon/friday20/) |
-
+| AgileStationery.co.uk | 40% off when you buy 3+ | 11/26 | [link](https://agilestationery.co.uk/pages/games-catalogue) |
 
 ## Books
 
@@ -56,6 +56,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | PentesterAcademy.com | N/A | 11/23 | N/A |
 | Hackersacademy.com | N/A | 11/23 | N/A |
 | Hacker.house | N/A | 11/23 | N/A |
+| Silesiasecuritylab.com | 90% off course w/ code `BlackFriday2020` | 11/26 | [link](https://silesiasecuritylab.com/) |
 
 ## Tools & Services
 
@@ -94,6 +95,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Tile.com | Pre-Black Friday Sale - 30% off sticker 4-packs, etc. | 11/23 | [link](https://www.thetileapp.com/products?utm_medium=email&utm_source=salesforcemc&utm_campaign=holiday_prebf) |
 | Southord.com | N/A | 11/23 | N/A |
 | Thinkpeterson.com | N/A | 11/23 | N/A |
+| Maltronics.com | 20% off WiFi Keyloggers | 11/26 | [link](https://maltronics.com/collections/wifi-keyloggers) |
 
 ## Certifications
 
